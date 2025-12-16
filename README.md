@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna1597&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna1597" /> </p>
 
-- 🔭 I’m currently student at <a href ="https://www.masaischool.com/" >Masai School</a>
+- 🔭 I’m currently working at <a href ="https://www.linarc.com)" >Linarc Inc</a>
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+- 🌱 I’m currently learning **Java Selenium Automation**
 
-- 👯 I’m looking to work as **Web Developer**
+- 👯 I’m looking to work as **SDET**
 
 - 👨‍💻 All of my projects are available at <a href ="https://github.com/Ramkrishna1597?tab=repositories" >My Github Repository</a>
 
-- 💬 Ask me about **MERN, Javascript**
+- 💬 Ask me about **MERN, Javascript, Playwright, Python**
 
 - 📫 How to reach me **keerramkrishna425@gmail.com**
 
