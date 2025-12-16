@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna1597&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna1597" /> </p>
 
-- 🔭 I’m currently working at <a href ="https://www.linarc.com)" >Linarc Inc</a>
+- 🔭 I’m currently working at <a href ="https://www.linarc.com" >Linarc Inc</a>
 
 - 🌱 I’m currently learning **Java Selenium Automation**
 
