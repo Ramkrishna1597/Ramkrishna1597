@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **keerramkrishna425@gmail.com**
 
-- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1WjCXVJnWP2wtoyip687JXUkl7HY-8nJq/view?usp=sharing/" >Resume</a>
+- 📄 Know about my experiences <a href ="[https://drive.google.com/file/d/1WjCXVJnWP2wtoyip687JXUkl7HY-8nJq/view?usp=sharing/](https://drive.google.com/file/d/19sLD1HWQFvxyyw2zL-65IWPqZmf5JALe/view?usp=sharing)" >Resume</a>
 
 - ⚡ Fun fact **I Love to travel hill stations and play team Games like cricket and football.**
 
