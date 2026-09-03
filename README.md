@@ -1,41 +1,186 @@
-[![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
-
 <h1 align="center">Hi 👋, I'm Ramkrishna Keer</h1>
-<h3 align="center">A passionate SDET</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.digisailor.com/assets/img/projects/Application-Development.gif">
+<h3 align="center">QA Automation Engineer | SDET | Playwright | JavaScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna1597&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna1597" /> </p>
-
-- 🔭 I’m currently working at <a href ="https://www.linarc.com" >Linarc Inc</a>
-
-- 🌱 I’m currently learning **Java Selenium Automation**
-
-- 👯 I’m looking to work as **SDET**
-
-- 👨‍💻 All of my projects are available at <a href ="https://github.com/Ramkrishna1597?tab=repositories" >My Github Repository</a>
-
-- 💬 Ask me about **MERN, Javascript, Playwright, Python**
-
-- 📫 How to reach me **keerramkrishna425@gmail.com**
-
-- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/19sLD1HWQFvxyyw2zL-65IWPqZmf5JALe/view?usp=sharing" >Resume</a>
-
-- ⚡ Fun fact **I Love to travel hill stations and play team Games like cricket and football.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramkrishna-keer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkrishna-keer" height="30" width="40" /></a>
-<a href="https://medium.com/@keerramkrishna425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@keerramkrishna425" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@keerramkrishna41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@keerramkrishna41" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramkrishna_keer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramkrishna_keer" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Ramkrishna1597.png?size=300" alt="Ramkrishna Keer" width="180" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ramkrishna1597&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna1597" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkrishna1597&show_icons=true&locale=en&layout=compact" alt="ramkrishna1597" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkrishna1597&show_icons=true&locale=en" alt="ramkrishna1597" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkrishna1597&" alt="ramkrishna1597" /></p>
+- 🔭 I'm focused on **QA Automation and Software Testing**
+
+- 🌱 I'm currently exploring **AI tools and GenAI for software testing and test automation**
+
+- 🧪 Experienced in **UI, API, Functional, Regression, Exploratory and End-to-End Testing**
+
+- 🎭 Working with **Playwright + JavaScript**
+
+- 🔌 Experienced in **API testing with Postman and Playwright APIRequest**
+
+- 🗄️ Familiar with **SQL and database validation**
+
+- 🛠️ Using **Git and GitHub** for version control and collaboration
+
+- 👯 I'm looking to work as an **SDET / QA Automation Engineer**
+
+- 💬 Ask me about **Playwright, JavaScript, TypeScript, API Testing, Postman, SQL and Software Testing**
+
+- 👨‍💻 All of my projects are available in my **[GitHub Repositories](https://github.com/Ramkrishna1597?tab=repositories)**
+
+- 📄 Know more about my experience through my **[Resume](https://drive.google.com/file/d/19sLD1HWQFvxyyw2zL-65IWPqZmf5JALe/view?usp=sharing)**
+
+- ⚡ Fun fact: **I love travelling to hill stations and playing team sports like cricket and football.**
+
+---
+
+## 🧪 QA & Automation Skills
+
+### Testing
+
+**UI Testing** • **API Testing** • **Functional Testing** • **Regression Testing** • **Exploratory Testing** • **End-to-End Testing**
+
+### Automation
+
+**Playwright** • **JavaScript** • **Page Object Model** • **API Automation** • **Test Reporting**
+
+### API & Database
+
+**Postman** • **REST APIs** • **HTTP Methods** • **JSON** • **SQL**
+
+### Tools
+
+**Git** • **GitHub** • **VS Code** • **Node.js**
+
+---
+
+## 🚀 Projects
+
+I build projects focused on **software testing, automation, web applications and developer tools**.
+
+🔗 Explore all my projects:
+
+**[View My GitHub Repositories](https://github.com/Ramkrishna1597?tab=repositories)**
+
+---
+
+## 🤖 Currently Exploring
+
+- AI tools for software testing
+- Generative AI for QA
+- AI-assisted test case generation
+- AI-assisted test automation
+- Improving Playwright automation frameworks
+- API and end-to-end automation strategies
+- Using AI to improve QA productivity
+
+---
+
+## 🎯 Career Focus
+
+I'm interested in opportunities related to:
+
+**SDET** • **QA Automation Engineer** • **Software Development Engineer in Test** • **Test Automation**
+
+My current focus is on building reliable automation frameworks and improving my skills in **Playwright, JavaScript, API testing and modern AI-assisted testing approaches**.
+
+---
+
+## 📚 Learning Philosophy
+
+> **Automate what matters, test what can fail, and use AI to make testing smarter.**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ramkrishna-keer" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://medium.com/@keerramkrishna425" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/@keerramkrishna41" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/ramkrishna_keer" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://playwright.dev/" target="_blank">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkrishna1597&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkrishna1597&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkrishna1597" alt="GitHub Streak" />
+</p>
