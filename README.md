@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna Keer</h1>
 
-<h3 align="center">QA Automation Engineer | SDET | Playwright | JavaScript| Typescript </h3>
+<h3 align="center">QA Automation Engineer | SDET | Playwright | JavaScript | Typescript </h3>
 
 <p align="center">
   <img src="https://github.com/Ramkrishna1597.png?size=300" alt="Ramkrishna Keer" width="180" />
